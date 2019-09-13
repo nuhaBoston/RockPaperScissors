@@ -27,7 +27,8 @@ def computerPlay(b):
             return 'scissors'
 
 def humanPlay(c):
-    
+    return 
+
 
     
 
