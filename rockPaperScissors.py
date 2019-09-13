@@ -26,6 +26,8 @@ def computerPlay(b):
         if num == 3:
             return 'scissors'
 
+def humanPlay(c):
+    
 
     
 
